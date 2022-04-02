@@ -18,7 +18,7 @@ var questions = [
   answer: "Naruto"
  },
  {
-  question: "Who is Gon's best friend in HxH",
+  question: "Who is Gon's best friend in HxH?",
   answer: "Killua"
  },
  {
@@ -26,11 +26,11 @@ var questions = [
   answer: "Jennifer Lawrence"  
  },
  {
-  question: "Who is strongest of them all in JJK",
+  question: "Who is strongest of them all in JJK?",
   answer: "Gojou Satoru"  
  },
  {
-  question: "IS lelouch still alive in Code Geass?",
+  question: "Is lelouch still alive in Code Geass?",
   answer: "yes"  
  }
 ]
